@@ -1,2 +1,2 @@
-<img src="pb.jpg" alt="width=820% height=312%" />
+<img src="pb.jpg" alt="width=620% height=112%" />
 # PowerBI
